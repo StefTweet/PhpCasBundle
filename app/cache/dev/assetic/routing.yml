@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: 'F:/xampp/htdocs/Symfony212/Smfony21/app/config/routing_dev.yml'
+    resource: 'F:/xampp/htdocs/CasBundle/CasBundle/app/config/routing_dev.yml'
